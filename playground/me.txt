@@ -1,5 +1,0 @@
-{{#user}
-Name: Imran Hossain
-Skills: HTML, CSS, JS, React.js, Express.js, Node.js, MongoDB.
-Email: amranhossain080@gmail.com
-{{/user}}
